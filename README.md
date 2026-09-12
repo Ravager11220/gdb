@@ -2,4 +2,4 @@
 ---
 ## Contents:
 
- 1) Shallowcopy-concept: learnt about the rules of three and fives, how dynamic memory allocation pointers work and how could stuff go wrong. 
+ 1) Shallowcopy-concept: learnt about the rules of three and fives, how dynamic memory allocation pointers work and how could stuff go wrong. Go to the subfolder to learn more.
